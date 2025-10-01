@@ -6,9 +6,9 @@
 
 ### 🚀 Exploring Web Development & UI
 
-#### *Pixel Art Coding Vibes...*
+#### *Simple Coding Vibes...*
 
-![Mario Coding Pixel Art](https://raw.githubusercontent.com/UmangSareen/Mario-GIFs/main/Assets/Mario-Office.gif)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -30,5 +30,5 @@
 
 ---
 
-Thanks for visiting my profile!
+Thanks for visiting my profile!  
 Check out my repositories and let’s connect 🚀
