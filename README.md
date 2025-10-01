@@ -1,25 +1,24 @@
-# 👋 Hi there!
+# Hey there! 👋 I'm Utkarsh
 
-I'm Utkarsh, a student at **IMS Engineering College** passionate about web development and building cool projects.
+Full Stack Developer | JavaScript, React, Node.js & Express Enthusiast | Student @ IMS Engineering College
 
-## 🚀 About Me
+## 🚀 Exploring Web Development & UI
 
-- 👨‍🎓 Student at IMS Engineering College
-- 💻 Web developer skilled in JavaScript, React, Node.js, and Express
-- 🌱 Always learning new technologies and working on personal projects
+![Coding UI GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
 
 ## 🛠️ Skills
-
 - **Languages:** JavaScript (ES6+)
 - **Frontend:** React, HTML, CSS
 - **Backend:** Node.js, Express
 
 ## 📫 Connect with Me
-
 - Portfolio: [p2-tqcp.vercel.app](https://p2-tqcp.vercel.app/)
 - Email: upadhyayutkarsh1614@gmail.com
 - LinkedIn: [utkarsh-upadhyay-135a34260](https://www.linkedin.com/in/utkarsh-upadhyay-135a34260/)
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
+Thanks for visiting my profile!  
+Feel free to check out my repositories and connect with me.
