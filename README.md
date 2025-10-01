@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**utkarsh61r/utkarsh61r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Utkarsh, a student at **IMS Engineering College** passionate about web development and building cool projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Student at IMS Engineering College
+- 💻 Web developer skilled in JavaScript, React, Node.js, and Express
+- 🌱 Always learning new technologies and working on personal projects
+
+## 🛠️ Skills
+
+- **Languages:** JavaScript (ES6+)
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express
+
+## 📫 Connect with Me
+
+- Portfolio: [p2-tqcp.vercel.app](https://p2-tqcp.vercel.app/)
+- Email: upadhyayutkarsh1614@gmail.com
+- LinkedIn: [utkarsh-upadhyay-135a34260](https://www.linkedin.com/in/utkarsh-upadhyay-135a34260/)
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
