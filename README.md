@@ -8,7 +8,7 @@
 
 #### *Pixel Art Coding Vibes...*
 
-![Mario Coding Pixel Art](https://github.com/UmangSareen/Mario-GIFs/blob/main/Assets/Mario-Office.gif?raw=true)
+![Mario Coding Pixel Art](https://raw.githubusercontent.com/UmangSareen/Mario-GIFs/main/Assets/Mario-Office.gif)
 
 ---
 
@@ -30,5 +30,5 @@
 
 ---
 
-Thanks for visiting my profile!  
+Thanks for visiting my profile!
 Check out my repositories and let’s connect 🚀
