@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarsh61r&color=0AFF9D&style=for-the-badge&label=👀+Profile+Views)
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://p2-tqcp.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-1DB954?style=for-the-badge)](PUT_YOUR_RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-1DB954?style=for-the-badge)](#)
 
 # Hey there! 👋 I'm **Utkarsh Upadhyay**
 
@@ -23,24 +23,10 @@
 ## 🚀 About Me
 
 - 💻 Full-Stack Developer focused on the **MERN Stack**
-- 📚 Strong foundation in **HTML, CSS, JavaScript, React, Node.js, Express**
-- 🔁 Learning by building **real-world production-grade projects**
+- 📚 Solid foundation in **HTML, CSS, JavaScript, React, Node.js, Express**
+- 🔁 Learning by building real-world projects
 - 🧠 Interested in **APIs, Backend Logic & Scalable Web Apps**
-- 🎯 Goal: **Secure a Web Developer / Software Engineer role**
-
----
-
-## 💼 Experience
-
-### **Frontend Developer**
-**Esprit Systems**, Ghaziabad, UP  
-📅 *July 2024 – Present*
-
-- Built **responsive React.js applications**, improving cross-device compatibility by **40%**
-- Integrated **REST APIs**, reducing data fetch latency by **25%**
-- Optimized **React state management**, achieving **20% faster load times**
-- Created **reusable UI components**, reducing feature delivery time by **15%**
-- Worked in **Agile/Scrum** with stand-ups, code reviews, and sprint planning
+- 🎯 Goal: **Secure a Web Developer role in the tech industry**
 
 ---
 
@@ -48,56 +34,23 @@
 
 | Frontend | Backend | Database | Tools |
 |----------|---------|----------|-------|
-| HTML5 | Node.js | MongoDB | Git |
-| CSS3 | Express.js | MySQL | GitHub |
-| JavaScript (ES6+) | JWT | | VS Code |
-| React.js | | | Postman |
-| Tailwind CSS | | | Clerk • Sentry |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge) | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | | | ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge) |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | | | ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge) |
 
 ---
 
-## 📂 Projects
+## 📂 Projects (Learning by Building)
 
-### 🌐 **Personal Portfolio Website**
-🔗 https://p2-tqcp.vercel.app/  
-**HTML • CSS • JavaScript**
+- 🌐 **Portfolio Website** – Live at https://p2-tqcp.vercel.app/  
+- 🔹 **Job Portal Website** (React + Node + Clerk Auth)  
+- 🔹 **Resume Builder Web App**  
+- 🔹 **Task Manager (React + Tailwind)**  
+- 🔹 **AI-Driven Career Counseling System (LLMs)**  
 
-- SEO-optimized portfolio with **30% faster load time**
-- Improved search visibility with **25% increase in clicks**
-
----
-
-### 🛒 **E-Commerce Storefront**
-**React.js • Redux • Stripe API**
-
-- Complete e-commerce flow (products, cart, checkout)
-- Redux-based state management for smooth UX
-- Secure payments using **Stripe API**
-- Improved page performance by **22%**
-
----
-
-### 💰 **Personal Finance Tracker**
-**React • Node.js • Express • MongoDB**
-
-- Secure full-stack finance tracking system
-- CRUD operations with dynamic dashboards
-- Authentication and analytics features implemented
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science**  
-IMS Engineering College, Ghaziabad  
-📅 *Expected 2026*
-
----
-
-## 📜 Certifications
-
-- **Web Development** — Angela Yu (Udemy)
-- **IBM Web Development Fundamentals** — SkillsBuild
+> 🚀 More projects in progress — building consistently
 
 ---
 
@@ -123,10 +76,10 @@ IMS Engineering College, Ghaziabad
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/utkarsh-upadhyay/">
+  <a href="https://www.linkedin.com/in/utkarsh-upadhyay-135a34260/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/utkarsh61r">
