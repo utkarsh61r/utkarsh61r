@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarsh61r&color=0AFF9D&style=for-the-badge&label=👀+Profile+Views)
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://p2-tqcp.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-1DB954?style=for-the-badge)](#)
+[![Resume](https://drive.google.com/file/d/1pTB0tpuurDiNRiclO_5an_6uaPoe7xqf/view?usp=drive_link)](#)
 
 # Hey there! 👋 I'm **Utkarsh Upadhyay**
 
