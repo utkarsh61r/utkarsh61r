@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://p2-tqcp.vercel.app/)
 [![Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-1DB954?style=for-the-badge)](https://drive.google.com/file/d/1pTB0tpuurDiNRiclO_5an_6uaPoe7xqf/view)
 
-# Hey there! 👋 I'm **Utkarsh Upadhyay**
+# Hey there! 👋 I'm **Utkarsh **
 
 **Full-Stack Web Developer (MERN) | JavaScript Specialist | React & Node.js Enthusiast**  
 **Building scalable web apps • Learning by building real projects • Future-ready developer**
